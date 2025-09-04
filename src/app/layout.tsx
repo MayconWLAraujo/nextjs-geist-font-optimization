@@ -1,6 +1,5 @@
 import "./globals.css";
 import { geist } from "./fonts";
-
 export const metadata = {
   title: "Next.js Geist Font Optimization",
   description: "Projeto Next.js com otimização da fonte Geist",
