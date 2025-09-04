@@ -120,3 +120,4 @@
     @apply bg-background text-foreground;
   }
 }
+:root { font-family: var(--font-geist), system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
